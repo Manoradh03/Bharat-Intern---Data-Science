@@ -9,7 +9,7 @@ Welcome to my **Bharat Intern - Data Science** project repository! Here, you'll 
 
 ## Tasks 
 
-### Task 1 : [Stock Prediction]
+### Task 1 : [Stock Prediction](https://manoradh03.github.io/Bharat-Intern---Data-Science/Stock%20Prediction/Stock%20Prediction.ipynb)
 
 ### Task 2 : [Titanic Classification]
 
