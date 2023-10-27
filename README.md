@@ -11,9 +11,9 @@ Welcome to my **Bharat Intern - Data Science** project repository! Here, you'll 
 
 ### Task 1 : [Stock Prediction](https://github.com/Manoradh03/Bharat-Intern---Data-Science/blob/main/Stock%20Prediction/Stock%20Prediction.ipynb)
 
-### Task 2 : Titanic Classification
+### Task 2 : [Titanic Classification](https://github.com/Manoradh03/Bharat-Intern---Data-Science/blob/main/Titanic%20Classification/Titanic%20Classification.ipynb)
 
-### Task 3 : Number Recognition
+### Task 3 : [Number Recognition](https://github.com/Manoradh03/Bharat-Intern---Data-Science/blob/main/Number%20Recognition/Number%20Recognition.ipynb)
 
 ## Project Descriptions
 
